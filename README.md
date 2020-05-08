@@ -5,7 +5,17 @@ The project is trying to figure out and analyze the corelation between structure
 
 The data is collected from multiple websites and sources
 
-
 Indicators | Source | Description | Unit|
 --- | --- | --- | --- |
-Seconds | 301 | 283 | 290 | 
+Stuctured Cabling Market Sales | BSRIA Research | market size of stuctured cabling for copper | $ Million | 
+--- | --- | --- | --- |
+US Commercial Construction | US Concensus Bureau | US construction spending | $ Billion |
+--- | --- | --- | --- |
+Construction Spending (Private + Public) | Statista.com | *** | $ Billions |
+--- | --- | --- | --- |
+Real GDP | thebalance.com | *** | $ Trillions | 
+--- | --- | --- | --- |
+GDP Growth Rate | thebalance.com | *** | % percentage | 
+--- | --- | --- | --- |
+Copper Commodity Price | fred.stlouisfed.org | global copper price | Metric Tons |
+--- | --- | --- | --- |
